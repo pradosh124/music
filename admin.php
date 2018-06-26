@@ -177,7 +177,7 @@ session_start();
 
 
 <nav class="navbar navbar-inverse navbar-fixed-bottom text-center" id="bottomfooter">
-	<h5><b>Made with <span class="glyphicon glyphicon-heart"></span> by Girish Kuniyal</b></h5>
+	<h5><b>Made with <span class="glyphicon glyphicon-heart"></span> by pradosh chakra</b></h5>
 </nav>
 </body>
 

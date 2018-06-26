@@ -71,8 +71,8 @@
 			<div id="about-title2"><b>Developer</b></div><br><br>
 			<a href="#">
 				<div id="imagebox">
-					<img src="resources/giri.jpg" id="image">
-					<div id="img-title">Girish Kuniyal</div>
+					<img src="resources/pradosh.jpg" id="image">
+					<div id="img-title">Pradosh chakra</div>
 				</div>
 			</a>
 		
@@ -92,7 +92,7 @@
 						<span class="input-group-addon">
 						<i class="glyphicon glyphicon-user"></i>
 						</span>
-					<input type="text" class="form-control" name="user" placeholder="girish@gmail.com">
+					<input type="text" class="form-control" name="user" placeholder="pradoshchakra10@gmail.com">
 					</div><br>
 					<div class="input-group">
 						<span class="input-group-addon">
@@ -109,7 +109,7 @@
 </div>
 
 <nav class="navbar navbar-inverse navbar-fixed-bottom text-center" id="bottomfooter">
-	<h5><b>Made with <span class="glyphicon glyphicon-heart"></span> by Girish Kuniyal</b></h5>
+	<h5><b>Made with <span class="glyphicon glyphicon-heart"></span> by pradosh chakra</b></h5>
 </nav>
 </body>
 
